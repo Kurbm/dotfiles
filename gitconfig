@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = kevin.urbaum@gmail.com
+	name = Kevin Urbaum
