@@ -1,9 +1,10 @@
 {
     "editor.detectIndentation": false,
-    "editor.formatOnPaste": true,
+    "editor.formatOnPaste": false,
     "editor.minimap.enabled": false,
     "editor.multiCursorModifier": "ctrlCmd",
-    "editor.insertSpaces": true,
+    "editor.formatOnPaste": false,
+		"editor.insertSpaces": false,
     "editor.tabSize": 2,
     "editor.rulers":
     [
